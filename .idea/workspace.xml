@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b7dba8-5ab1-4cde-86ad-046916eb709d" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/res/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/order.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/xuni.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,7 +56,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sell" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
@@ -396,7 +392,7 @@
       <workItem from="1578534630792" duration="18370000" />
       <workItem from="1584946151970" duration="1742000" />
       <workItem from="1585013244777" duration="382000" />
-      <workItem from="1585013654367" duration="77440000" />
+      <workItem from="1585013654367" duration="78074000" />
     </task>
     <task id="LOCAL-00001" summary="使用springboot构建点餐卖家后端管理系统">
       <created>1585230538143</created>
@@ -405,15 +401,34 @@
       <option name="project" value="LOCAL" />
       <updated>1585230538143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="截图和说明文档">
+      <created>1585244056057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585244056057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="使用springboot构建点餐卖家后端管理系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用springboot构建点餐卖家后端管理系统" />
+    <MESSAGE value="截图和说明文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="截图和说明文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="209" key="#Tomcat_Server" timestamp="1585017594651">
@@ -450,23 +465,23 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="618" y="184" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1578535999417" />
-    <state x="636" y="127" key="CommitChangelistDialog2" timestamp="1585230529223">
+    <state x="636" y="127" key="CommitChangelistDialog2" timestamp="1585244725706">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="636" y="127" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585230529223" />
-    <state x="787" y="263" key="FileChooserDialogImpl" timestamp="1585230350452">
+    <state x="636" y="127" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585244725706" />
+    <state x="787" y="263" key="FileChooserDialogImpl" timestamp="1585244603019">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="787" y="263" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585230350452" />
+    <state x="787" y="263" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585244603019" />
     <state x="787" y="270" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578577342657" />
     <state x="949" y="448" key="Github.CreateGistDialog" timestamp="1585229751757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="949" y="448" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585229751756" />
-    <state x="1003" y="425" key="Github.ShareDialog" timestamp="1585230629422">
+    <state x="1003" y="425" width="273" height="290" key="Github.ShareDialog" timestamp="1585244713882">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1003" y="425" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585230629422" />
+    <state x="1003" y="425" width="273" height="290" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585244713882" />
     <state width="1340" height="257" key="GridCell.Tab.0.bottom" timestamp="1585230249543">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
