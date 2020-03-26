@@ -1,0 +1,52 @@
+{
+  "errno": 0,
+  "data": {
+    "name": "炸鸡先森&韩式炸鸡（万达店）",
+    "description": "美团专送",
+    "deliveryTime": 36,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 2,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "亲爱的顾客，店主99年的，借父母15万开店，创业初期开一家小店真的很不容易，每天9点开始营业，晚上3点才睡觉，如果您在用餐过程中遇到任何问题，请及时联系18679597978，希望您不要迁怒于本店理性评价，炸鸡先森祝您用餐愉快谢谢大家！",
+    "supports": [
+      {
+        "type": 0,
+        "description": "满20减5;满40减13;满58减23;满88减36;满118减46"
+      },
+      {
+        "type": 1,
+        "description": "折扣商品4.55折起"
+      },
+      {
+        "type": 2,
+        "description": "本店新用户立减1元"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "https://p0.meituan.net/120.0/business/9b3daa9dd68239b912cebc5b364a9dd11891953.jpg",
+    "pics": [
+      "http://photocdn.sohu.com/20151010/mp34562396_1444466567920_3.jpeg?imageView2/1/w/180/h/180",
+      "https://uploads.qj.com.cn/image2017/20190228/1551331568914008497.jpg?imageView2/1/w/180/h/180",
+      "http://s3.zaiseoul.com/shop/26_2015/re_494__78V0780.jpg?imageView2/1/w/180/h/180",
+      "http://s3img.city.sina.com.cn/xiancheng/common/thumbnail/0/03ba7987711ff668b33bce61395c9cc2.jpg?imageView2/1/w/180/h/180"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "配送服务:有美团快送提供给配送服务",
+      "南昌市红谷滩新区凤凰中大道1000号南昌万达中心一号商业楼104室（第1-2层）（万达b1写字楼丰泽路博锐教育旁）",
+      "配送时间:00:00-01:00,10:50-23:59"
+    ]
+  }
+}
