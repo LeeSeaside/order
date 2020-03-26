@@ -31,7 +31,7 @@
 ## 页面展示
 
 ### 后端商品页面
-![image](res/2.png)
+![image](res/1.png)
 
 ### 前端商品页面
 ![image](res/2.png)
